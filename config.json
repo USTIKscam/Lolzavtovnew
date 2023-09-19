@@ -1,0 +1,9 @@
+ {
+    "thread_url":"",
+    "lolz_token":"",
+    "api_domain": "api.zelenka.guru",
+    "proxy":"",
+    "delay": [15, 20],
+    "data_count" : 1,
+    "dynamic_data" : false
+}
